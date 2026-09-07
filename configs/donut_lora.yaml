@@ -1,0 +1,10 @@
+model: naver-clova-ix/donut-base
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+training:
+  learning_rate: 1e-4
+  epochs: 5
+  batch_size: 2
+  precision: fp16

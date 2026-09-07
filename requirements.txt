@@ -1,0 +1,14 @@
+huggingface_hub
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
+torch
+opencv-python
+pdf2image
+pillow
+python-Levenshtein
+pandas
+matplotlib
+anthropic

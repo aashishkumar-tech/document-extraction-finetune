@@ -1,0 +1,20 @@
+# data & model artifacts — never commit these
+data/raw/
+data/degraded/
+checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# env / secrets
+.env
+*.key
+
+# jupyter
+.ipynb_checkpoints/
+
+# os
+.DS_Store

@@ -1,0 +1,11 @@
+model: Qwen/Qwen2-VL-2B-Instruct
+lora:
+  r: 8
+  alpha: 16
+  dropout: 0.05
+quantization: 4bit_nf4
+training:
+  learning_rate: 1e-4
+  epochs: 3
+  batch_size: 1
+  gradient_accumulation_steps: 4
