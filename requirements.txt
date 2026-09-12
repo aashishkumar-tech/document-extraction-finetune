@@ -12,3 +12,8 @@ python-Levenshtein
 pandas
 matplotlib
 anthropic
+openai
+python-dotenv
+numpy
+jupyter
+tqdm

@@ -1,0 +1,2 @@
+run_id,scored_at,clean_f1,light_f1,medium_f1,heavy_f1,n_good,n_hallucination,n_missing,n_api_error,n_unparseable
+20260912_201022_pertemplate5,2026-09-12T20:36:08.126250,0.872,0.585,0.255,0.142,29,31,19,0,1
